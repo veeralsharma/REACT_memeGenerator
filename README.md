@@ -1,6 +1,9 @@
 # REACT_memeGenerator
 react app that helps you make awesome memes using templates
 
+use this link to acces site-
+https://suspicious-hermann-77610b.netlify.com
+
 
 to run-
 1-download files
