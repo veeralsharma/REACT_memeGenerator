@@ -2,7 +2,7 @@
 react app that helps you make awesome memes using templates
 
 use this link to acces site-
-https://suspicious-hermann-77610b.netlify.com
+https://upbeat-lalande-a96748.netlify.com/
 
 
 to run-
