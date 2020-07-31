@@ -2,7 +2,7 @@
 react app that helps you make awesome memes using templates
 
 use this link to acces site-
-https://upbeat-lalande-a96748.netlify.com/
+https://memechat.netlify.app/
 
 
 to run-
